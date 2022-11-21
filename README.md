@@ -11,7 +11,8 @@
 >Estudo dirigito por meio do [tutorial] para inspiração de UI e pratica no desenvolvimento de aplicativos com o Flutter.
 
 # Tela
-...
+![Screenshot_1668997107](https://user-images.githubusercontent.com/37612961/202946911-181b2330-389c-4de9-ac10-dae73de318d3.png)
+
 
 ## Conheça o Flutter e cria apps lindos
 Este é um ponto de partida para uma aplicação Flutter. Alguns recursos para você começar se este for seu primeiro encontro com o Flutter:
