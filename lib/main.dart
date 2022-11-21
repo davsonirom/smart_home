@@ -20,14 +20,9 @@ class MyApp extends StatelessWidget {
   }
 }
 
-class CodicesSystema extends StatefulWidget {
+class CodicesSystema extends StatelessWidget {
   const CodicesSystema({Key? key}) : super(key: key);
 
-  @override
-  State<CodicesSystema> createState() => _CodicesSystemaState();
-}
-
-class _CodicesSystemaState extends State<CodicesSystema> {
   @override
   Widget build(BuildContext context) {
     return const HomePage();
